@@ -1,0 +1,9 @@
+{
+  "start":"platform",
+  "nodes":[
+    {"id":"platform","speaker":"站台广播","text":"雨停了。开往海边的末班电车即将进站。","next":"ticket"},
+    {"id":"ticket","speaker":"售票员","text":"还有一分钟。你想去哪儿？","choices":[{"label":"坐到终点","target":"shore"},{"label":"留在站台","target":"wait"}]},
+    {"id":"shore","speaker":"海岸线","text":"车门打开时，远处的灯塔刚好亮起。","end":true},
+    {"id":"wait","speaker":"站台","text":"电车走远。屋檐下，雨滴还在敲着旧时刻表。","end":true}
+  ]
+}

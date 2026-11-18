@@ -1,0 +1,7 @@
+{
+  "title":"末班电车", "disc_id":"HOME00001",
+  "theme":{"sky":"#dbe9e3","land":"#68948a","ink":"#172e34","paper":"#faf7e8","accent":"#e2ae55","menu":"#165581"},
+  "media":{"icon":null,"xmb_background":null,"scene_background":null,"bgm":null,"xmb_music":null},
+  "gallery":[{"label":"末班电车 · 雨后站台","image":null}],
+  "menu":[{"label":"旅程","items":[{"label":"继续阅读","action":"resume"},{"label":"保存进度","action":"save"},{"label":"读取进度","action":"load"},{"label":"从头开始","action":"restart"}]},{"label":"章节","items":[{"label":"前往售票处","action":"jump","target":"ticket"}]},{"label":"鉴赏","items":[{"label":"画面鉴赏","action":"gallery"}]}]
+}
